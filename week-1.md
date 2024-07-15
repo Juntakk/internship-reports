@@ -1,25 +1,19 @@
-## Semaine 1
-- **Période Couverte:** 13 mai 2024 - 19 mai 2024
+## Semaine 2
+- **Période Couverte:** 20 mai 2024 - 26 mai 2024
 
 ### Tâches Accomplies:
-1. **Tâche 1:**
-   - Description: Rencontre avec l'équipe et description de l'application de la compagnie.
-   - Outils/Technologies Utilisés: Flutter, Dart, Android Studio.
-   - Défis Rencontrés: Problèmes avec l'installation du SDK.
-   - Résultat: Configuration réussie de l'environnement et exécution d'une application exemple.
-
-2. **Tâche 2:**
-   - Description: Premier pas d'apprentissage du language Dart et du Framework Flutter.
-   - Outils/Technologies Utilisés: Flutter, Dart.
-   - Défis Rencontrés: Overload d'informations.
-   - Résultat: Une chose à la fois.
+1. **Formation Flutter:**
+   - Description: J'ai suivi une formation approfondie sur Udemy, comprenant la création de diverses applications pour me familiariser avec Flutter.
+   - Outils/Technologies Utilisés: Udemy, Flutter, Dart.
+   - Défis Rencontrés: Compréhension de concepts avancés et mise en pratique des techniques apprises.
+   - Résultat: Acquérir une meilleure compréhension de Flutter et être capable de créer des applications plus complexes.
 
 ### Principaux Apprentissages:
-- Familiarisation avec l'environnement de développement Flutter.
-- Apprentissage des bases de la structure de projet dans Flutter.
-- Expérience dans la résolution des problèmes d'installation du SDK.
+- Approfondissement des connaissances sur Flutter.
+- Pratique de la création d'applications diverses pour renforcer les compétences.
+- Amélioration des capacités à résoudre des problèmes de développement.
 
 ### Plans pour la Semaine Prochaine:
-- Commencer à travailler sur l'authentification des utilisateurs.
-- Configurer la base de données Firestore.
-- Commencer la conception de l'interface utilisateur principale.
+- Appliquer les connaissances acquises de la formation pour améliorer l'application sur laquelle je travaille.
+- Commencer à implémenter des fonctionnalités spécifiques dans l'application principale.
+- Continuer à explorer des fonctionnalités avancées de Flutter et Dart.

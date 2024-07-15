@@ -1,25 +1,25 @@
-## Semaine 7
-- **Période Couvert:** 24 juin 2024 - 30 juin 2024
+## Semaine 8
+- **Période Couvert:** 1 juillet 2024 - 7 juillet 2024
 
 ### Tâches Accomplies:
-1. **Ajout d'un Filtre pour les Inspections:**
-   - Description: J'ai implémenté un filtre pour trier les inspections affichées.
-   - Outils/Technologies Utilisés: Flutter, Dart.
-   - Défis Rencontrés: Définition des critères de filtrage et intégration avec la structure existante.
-   - Résultat: Fonctionnalité de filtrage permettant aux utilisateurs de trier les inspections selon différents critères.
+1. **Création d'un Fichier de Tests pour l'Application:**
+   - Description: J'ai créé un fichier de tests pour évaluer et valider l'application dans son ensemble.
+   - Outils/Technologies Utilisés: Flutter, Dart, framework de test de Flutter.
+   - Défis Rencontrés: Écriture de tests complets pour couvrir toutes les fonctionnalités de l'application.
+   - Résultat: Suite de tests complète permettant de vérifier la robustesse et la fiabilité de l'application.
 
-2. **Navigation vers une Page Détail:**
-   - Description: J'ai ajouté une fonctionnalité qui permet aux utilisateurs de naviguer vers une page détaillée de l'inspection lorsqu'ils cliquent sur une inspection.
+2. **Correction des Bugs Identifiés:**
+   - Description: J'ai identifié et corrigé plusieurs bugs découverts lors des tests.
    - Outils/Technologies Utilisés: Flutter, Dart.
-   - Défis Rencontrés: Gestion de la navigation et transfert des données de l'inspection sélectionnée.
-   - Résultat: Fonctionnalité de navigation fonctionnelle permettant aux utilisateurs de voir les détails des inspections spécifiques.
+   - Défis Rencontrés: Analyse des problèmes et mise en œuvre de solutions efficaces.
+   - Résultat: Application plus stable avec moins de bugs et une meilleure expérience utilisateur.
 
 ### Principaux Apprentissages:
-- Mise en œuvre de fonctionnalités de filtrage et de tri dans une application Flutter.
-- Gestion de la navigation entre les pages et transfert de données entre les widgets.
-- Amélioration de l'expérience utilisateur en rendant l'application plus interactive et facile à utiliser.
+- Écriture de tests pour une application Flutter afin d'assurer sa qualité.
+- Détection et résolution des bugs pour améliorer la fiabilité de l'application.
+- Collaboration avec l'équipe pour identifier et prioriser les corrections nécessaires.
 
 ### Plans pour la Semaine Prochaine:
-- Continuer à optimiser les fonctionnalités de filtrage et de navigation.
-- Ajouter des tests pour s'assurer de la robustesse des nouvelles fonctionnalités.
-- Travailler sur des améliorations de l'interface utilisateur et de l'expérience utilisateur.
+- Continuer à surveiller et à améliorer la stabilité de l'application.
+- Explorer des techniques avancées de test pour garantir la qualité du code.
+- Commencer à documenter le code et à préparer les livrables pour la fin du stage.

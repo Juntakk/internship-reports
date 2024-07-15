@@ -1,31 +1,31 @@
-## Semaine 4
-- **Période Couvert:** 3 juin 2024 - 9 juin 2024
+## Semaine 5
+- **Période Couvert:** 10 juin 2024 - 16 juin 2024
 
 ### Tâches Accomplies:
-1. **Début dans l'Application de la Compagnie:**
-   - Description: J'ai finalement commencé à travailler sur l'application de la compagnie.
+1. **Création d'une Modal avec Information de Contact:**
+   - Description: J'ai créé une modal contenant les informations de contact de la compagnie avec une fonctionnalité de copier-coller.
    - Outils/Technologies Utilisés: Flutter, Dart.
-   - Défis Rencontrés: Familiarisation avec le code existant et les processus de développement de la compagnie.
-   - Résultat: Intégration réussie dans l'équipe de développement et compréhension des processus internes.
+   - Défis Rencontrés: Mise en œuvre de la fonctionnalité de copier-coller et gestion de l'état de l'application.
+   - Résultat: Modal fonctionnelle permettant aux utilisateurs de copier les informations de contact facilement.
 
-2. **Création de la Page de Termes et Conditions:**
-   - Description: J'ai créé une page pour les termes et conditions de l'application.
-   - Outils/Technologies Utilisés: Flutter, Dart.
-   - Défis Rencontrés: Mise en page et formatage du contenu juridique.
-   - Résultat: Page de termes et conditions fonctionnelle et bien formatée.
+2. **Travail avec la Gestion d'État:**
+   - Description: J'ai découvert et travaillé avec la gestion d'état dans Flutter.
+   - Outils/Technologies Utilisés: Riverpod pour la gestion d'état.
+   - Défis Rencontrés: Compréhension des différents types de gestion d'état et leur mise en œuvre.
+   - Résultat: Meilleure gestion de l'état dans l'application, rendant les fonctionnalités plus interactives et réactives.
 
-3. **Création de la Page de Politique de Confidentialité:**
-   - Description: J'ai également créé une page pour la politique de confidentialité de l'application.
-   - Outils/Technologies Utilisés: Flutter, Dart.
-   - Défis Rencontrés: Organisation et présentation claire des informations de confidentialité.
-   - Résultat: Page de politique de confidentialité fonctionnelle et bien organisée.
+3. **Apprentissage du Test des Widgets:**
+   - Description: J'ai appris à tester les widgets dans Flutter pour m'assurer qu'ils fonctionnent correctement.
+   - Outils/Technologies Utilisés: Flutter, Dart, framework de test de Flutter.
+   - Défis Rencontrés: Comprendre comment écrire des tests efficaces pour les widgets.
+   - Résultat: Capacité à écrire des tests pour vérifier le bon fonctionnement des widgets, améliorant ainsi la fiabilité de l'application.
 
 ### Principaux Apprentissages:
-- Familiarisation avec le code et les pratiques de développement de l'application de la compagnie.
-- Création et mise en forme de contenus juridiques dans une application Flutter.
-- Intégration de pages statiques dans une application mobile.
+- Création de modals avec des fonctionnalités interactives.
+- Gestion de l'état dans une application Flutter.
+- Écriture et exécution de tests pour les widgets Flutter.
 
 ### Plans pour la Semaine Prochaine:
-- Travailler sur l'amélioration de l'interface utilisateur de l'application.
-- Intégrer des fonctionnalités interactives dans les pages de termes et conditions et de politique de confidentialité.
-- Collaborer avec l'équipe pour identifier et résoudre les bugs ou problèmes existants.
+- Continuer à améliorer l'application en ajoutant de nouvelles fonctionnalités.
+- Collaborer avec l'équipe pour tester et déboguer l'application.
+- Explorer des techniques avancées de gestion d'état et de test de widgets.

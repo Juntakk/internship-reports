@@ -1,25 +1,31 @@
-## Semaine 3
-- **Période Couvert:** 27 mai 2024 - 2 juin 2024
+## Semaine 4
+- **Période Couvert:** 3 juin 2024 - 9 juin 2024
 
 ### Tâches Accomplies:
-1. **Finition de la Formation Udemy:**
-   - Description: J'ai terminé la formation Udemy, en me concentrant sur des projets plus complexes pour renforcer ma maîtrise de Flutter.
-   - Outils/Technologies Utilisés: Udemy, Flutter, Dart.
-   - Défis Rencontrés: Gestion de projets plus avancés et intégration de fonctionnalités complexes.
-   - Résultat: Connaissances approfondies de Flutter et capacité à travailler sur des projets plus sophistiqués.
+1. **Début dans l'Application de la Compagnie:**
+   - Description: J'ai finalement commencé à travailler sur l'application de la compagnie.
+   - Outils/Technologies Utilisés: Flutter, Dart.
+   - Défis Rencontrés: Familiarisation avec le code existant et les processus de développement de la compagnie.
+   - Résultat: Intégration réussie dans l'équipe de développement et compréhension des processus internes.
 
-2. **Intégration à Flutter avec la Roadmap Flutter:**
-   - Description: J'ai finalisé l'intégration des concepts appris à travers la roadmap Flutter, en appliquant les meilleures pratiques recommandées.
-   - Outils/Technologies Utilisés: Flutter, Roadmap Flutter.
-   - Défis Rencontrés: Adaptation des concepts avancés de la roadmap à des cas d'utilisation réels.
-   - Résultat: Application des meilleures pratiques de Flutter dans le projet en cours, amélioration de la qualité du code et de l'architecture de l'application.
+2. **Création de la Page de Termes et Conditions:**
+   - Description: J'ai créé une page pour les termes et conditions de l'application.
+   - Outils/Technologies Utilisés: Flutter, Dart.
+   - Défis Rencontrés: Mise en page et formatage du contenu juridique.
+   - Résultat: Page de termes et conditions fonctionnelle et bien formatée.
+
+3. **Création de la Page de Politique de Confidentialité:**
+   - Description: J'ai également créé une page pour la politique de confidentialité de l'application.
+   - Outils/Technologies Utilisés: Flutter, Dart.
+   - Défis Rencontrés: Organisation et présentation claire des informations de confidentialité.
+   - Résultat: Page de politique de confidentialité fonctionnelle et bien organisée.
 
 ### Principaux Apprentissages:
-- Maîtrise avancée de Flutter à travers des projets complexes.
-- Application des meilleures pratiques de développement recommandées par la roadmap Flutter.
-- Amélioration des compétences en gestion de projets Flutter complexes.
+- Familiarisation avec le code et les pratiques de développement de l'application de la compagnie.
+- Création et mise en forme de contenus juridiques dans une application Flutter.
+- Intégration de pages statiques dans une application mobile.
 
 ### Plans pour la Semaine Prochaine:
-- Commencer à intégrer des fonctionnalités spécifiques dans l'application en cours de développement.
-- Effectuer des tests approfondis pour s'assurer de la qualité et de la stabilité des fonctionnalités ajoutées.
-- Explorer des concepts avancés non couverts dans la formation pour continuer à améliorer les compétences en Flutter.
+- Travailler sur l'amélioration de l'interface utilisateur de l'application.
+- Intégrer des fonctionnalités interactives dans les pages de termes et conditions et de politique de confidentialité.
+- Collaborer avec l'équipe pour identifier et résoudre les bugs ou problèmes existants.
